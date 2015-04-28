@@ -1,11 +1,16 @@
 ## What is this??
 
-To get started run:
+To get started, install node http-server:
 
 ```
-python -m SimpleHTTPServer
+npm install http-server -g
 ```
 
-Then open your browser to http://localhost:8000/ and open up the console.
+Run the http-server from within the 'what-is-this' directory:
+```
+http-server
+```
 
-When you are done, submit a writeup.
+Then open your browser to http://localhost:8080/ and open up the console.
+
+As you go through the exercise, complete the associated writeup.
